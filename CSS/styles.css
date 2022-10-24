@@ -60,7 +60,7 @@ a {
 .mItem {
     display: inline-block;
     margin-top: 18px;
-    /* width: 100%; */
+    margin-left: 18px;
     position: relative;
     height: 400px;
     width: 400px;
