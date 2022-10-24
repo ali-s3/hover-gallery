@@ -57,14 +57,6 @@ a {
     /* column-gap: 20px; */
 }
 
-/* masnory CSS */
-.masonry {
-    /* text-align: center; */
-    /* display: flex; */
-    /* gap: 20px; */
-    /* column-count: 2; */
-}
-
 .mItem {
     display: inline-block;
     margin-top: 18px;
